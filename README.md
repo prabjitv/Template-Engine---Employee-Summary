@@ -37,6 +37,11 @@ You will be employer-ready if you can answer the following questions:
 2. What is the difference between classical inheritance and prototypal inheritance?
 
 3. What are some benefits of test-driven development?
+  - Get an error back
+  - Save time
+  - Reveal bugs
+  - Show unintended bugs in area A when code was changed in area B
+  - Improve code
 
 ## Learning Objectives
 
